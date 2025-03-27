@@ -66,9 +66,9 @@ SOLID ViaCEP/
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/SOLID-ViaCEP.git
+git clone https://github.com/Marcelo1802/SOLID-ViaCEP-App.git
 ```
 
 2. Abra o arquivo `SOLID ViaCEP.xcodeproj` no Xcode
 
-3. Execute o projeto (⌘R) 
+3. Execute o projeto (⌘R)
